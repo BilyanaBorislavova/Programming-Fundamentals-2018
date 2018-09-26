@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\07. Query Mess\obj\Debug\07. Query Mess.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\07. Query Mess\obj\Debug\_07.Query_Mess.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\07. Query Mess\obj\Debug\_07.Query_Mess.pdb

@@ -1,0 +1,10 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.pdb

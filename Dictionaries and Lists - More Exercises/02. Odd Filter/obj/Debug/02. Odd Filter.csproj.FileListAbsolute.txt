@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\02. Odd Filter\bin\Debug\_02.Odd_Filter.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\02. Odd Filter\bin\Debug\_02.Odd_Filter.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\02. Odd Filter\bin\Debug\_02.Odd_Filter.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\02. Odd Filter\obj\Debug\02. Odd Filter.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\02. Odd Filter\obj\Debug\_02.Odd_Filter.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\02. Odd Filter\obj\Debug\_02.Odd_Filter.pdb

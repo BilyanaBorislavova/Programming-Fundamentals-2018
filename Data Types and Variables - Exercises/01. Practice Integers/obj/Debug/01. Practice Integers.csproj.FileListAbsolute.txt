@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\_01.Practice_Integers.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\_01.Practice_Integers.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\_01.Practice_Integers.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\01. Practice Integers.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\01. Practice Integers.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\_01.Practice_Integers.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\_01.Practice_Integers.pdb

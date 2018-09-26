@@ -1,0 +1,10 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.deps.json
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.runtimeconfig.json
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.dll
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.AssemblyInfo.cs
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.dll
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.pdb

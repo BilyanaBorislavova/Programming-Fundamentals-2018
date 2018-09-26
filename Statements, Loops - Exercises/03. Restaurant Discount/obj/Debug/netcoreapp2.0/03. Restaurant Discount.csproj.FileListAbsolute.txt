@@ -1,0 +1,10 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\03. Restaurant Discount\bin\Debug\netcoreapp2.0\03. Restaurant Discount.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\03. Restaurant Discount\bin\Debug\netcoreapp2.0\03. Restaurant Discount.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\03. Restaurant Discount\bin\Debug\netcoreapp2.0\03. Restaurant Discount.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\03. Restaurant Discount\bin\Debug\netcoreapp2.0\03. Restaurant Discount.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\03. Restaurant Discount\bin\Debug\netcoreapp2.0\03. Restaurant Discount.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\03. Restaurant Discount\obj\Debug\netcoreapp2.0\03. Restaurant Discount.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\03. Restaurant Discount\obj\Debug\netcoreapp2.0\03. Restaurant Discount.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\03. Restaurant Discount\obj\Debug\netcoreapp2.0\03. Restaurant Discount.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\03. Restaurant Discount\obj\Debug\netcoreapp2.0\03. Restaurant Discount.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\03. Restaurant Discount\obj\Debug\netcoreapp2.0\03. Restaurant Discount.pdb

@@ -1,0 +1,11 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp2.0\Back in 30 Minutes.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp2.0\Back in 30 Minutes.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp2.0\Back in 30 Minutes.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp2.0\Back in 30 Minutes.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Back in 30 Minutes\bin\Debug\netcoreapp2.0\Back in 30 Minutes.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Back in 30 Minutes\obj\Debug\netcoreapp2.0\Back in 30 Minutes.pdb

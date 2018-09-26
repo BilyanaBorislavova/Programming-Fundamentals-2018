@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\12. Master Number\bin\Debug\_12.Master_Number.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\12. Master Number\bin\Debug\_12.Master_Number.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\12. Master Number\bin\Debug\_12.Master_Number.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\12. Master Number\obj\Debug\12. Master Number.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\12. Master Number\obj\Debug\_12.Master_Number.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\12. Master Number\obj\Debug\_12.Master_Number.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\12. Master Number\obj\Debug\12. Master Number.csprojResolveAssemblyReference.cache

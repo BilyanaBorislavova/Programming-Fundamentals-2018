@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\02. Count Substring Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.pdb

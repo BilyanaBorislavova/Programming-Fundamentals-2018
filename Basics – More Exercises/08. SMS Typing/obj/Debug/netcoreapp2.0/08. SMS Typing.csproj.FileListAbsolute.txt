@@ -1,0 +1,10 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\08. SMS Typing\bin\Debug\netcoreapp2.0\08. SMS Typing.deps.json
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\08. SMS Typing\bin\Debug\netcoreapp2.0\08. SMS Typing.runtimeconfig.json
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\08. SMS Typing\bin\Debug\netcoreapp2.0\08. SMS Typing.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\08. SMS Typing\bin\Debug\netcoreapp2.0\08. SMS Typing.dll
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\08. SMS Typing\bin\Debug\netcoreapp2.0\08. SMS Typing.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\08. SMS Typing\obj\Debug\netcoreapp2.0\08. SMS Typing.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\08. SMS Typing\obj\Debug\netcoreapp2.0\08. SMS Typing.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\08. SMS Typing\obj\Debug\netcoreapp2.0\08. SMS Typing.AssemblyInfo.cs
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\08. SMS Typing\obj\Debug\netcoreapp2.0\08. SMS Typing.dll
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\08. SMS Typing\obj\Debug\netcoreapp2.0\08. SMS Typing.pdb

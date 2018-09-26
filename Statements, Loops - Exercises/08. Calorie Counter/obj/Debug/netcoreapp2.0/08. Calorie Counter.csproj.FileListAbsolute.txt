@@ -1,0 +1,10 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\08. Calorie Counter\bin\Debug\netcoreapp2.0\08. Calorie Counter.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\08. Calorie Counter\bin\Debug\netcoreapp2.0\08. Calorie Counter.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\08. Calorie Counter\bin\Debug\netcoreapp2.0\08. Calorie Counter.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\08. Calorie Counter\bin\Debug\netcoreapp2.0\08. Calorie Counter.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\08. Calorie Counter\bin\Debug\netcoreapp2.0\08. Calorie Counter.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\08. Calorie Counter\obj\Debug\netcoreapp2.0\08. Calorie Counter.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\08. Calorie Counter\obj\Debug\netcoreapp2.0\08. Calorie Counter.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\08. Calorie Counter\obj\Debug\netcoreapp2.0\08. Calorie Counter.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\08. Calorie Counter\obj\Debug\netcoreapp2.0\08. Calorie Counter.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\08. Calorie Counter\obj\Debug\netcoreapp2.0\08. Calorie Counter.pdb

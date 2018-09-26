@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\09. Reversed chars\obj\Debug\09. Reversed chars.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb

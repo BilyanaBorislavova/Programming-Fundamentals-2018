@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\16. Instruction Set\bin\Debug\_16.Instruction_Set.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\16. Instruction Set\bin\Debug\_16.Instruction_Set.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\16. Instruction Set\bin\Debug\_16.Instruction_Set.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\16. Instruction Set\obj\Debug\16. Instruction Set.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\16. Instruction Set\obj\Debug\16. Instruction Set.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\16. Instruction Set\obj\Debug\_16.Instruction_Set.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\16. Instruction Set\obj\Debug\_16.Instruction_Set.pdb

@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\04. Match Dates\obj\Debug\04. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\04. Match Dates\obj\Debug\_04.Match_Dates.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\04. Match Dates\obj\Debug\_04.Match_Dates.pdb

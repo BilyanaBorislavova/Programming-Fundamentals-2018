@@ -1,0 +1,11 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Multiplication Table\bin\Debug\netcoreapp2.0\Multiplication Table.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Multiplication Table\obj\Debug\netcoreapp2.0\Multiplication Table.pdb

@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\05. Temperature Conversion\bin\Debug\_05.Temperature_Conversion.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\05. Temperature Conversion\obj\Debug\05. Temperature Conversion.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\05. Temperature Conversion\obj\Debug\05. Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\05. Temperature Conversion\obj\Debug\_05.Temperature_Conversion.pdb

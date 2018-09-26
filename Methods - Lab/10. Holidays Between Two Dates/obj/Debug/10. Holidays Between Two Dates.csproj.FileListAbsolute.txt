@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\10. Holidays Between Two Dates\bin\Debug\_10.Holidays_Between_Two_Dates.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\10. Holidays Between Two Dates\bin\Debug\_10.Holidays_Between_Two_Dates.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\10. Holidays Between Two Dates\bin\Debug\_10.Holidays_Between_Two_Dates.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\10. Holidays Between Two Dates\obj\Debug\10. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\10. Holidays Between Two Dates\obj\Debug\_10.Holidays_Between_Two_Dates.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\10. Holidays Between Two Dates\obj\Debug\_10.Holidays_Between_Two_Dates.pdb

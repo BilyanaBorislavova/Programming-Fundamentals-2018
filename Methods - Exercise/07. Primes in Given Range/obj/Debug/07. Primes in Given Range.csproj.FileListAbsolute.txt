@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\07. Primes in Given Range\obj\Debug\07. Primes in Given Range.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\07. Primes in Given Range\obj\Debug\_07.Primes_in_Given_Range.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\07. Primes in Given Range\obj\Debug\_07.Primes_in_Given_Range.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\07. Primes in Given Range\obj\Debug\07. Primes in Given Range.csprojResolveAssemblyReference.cache

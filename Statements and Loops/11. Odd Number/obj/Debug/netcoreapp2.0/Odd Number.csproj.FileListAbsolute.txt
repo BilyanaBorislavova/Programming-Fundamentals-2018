@@ -1,0 +1,11 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Odd Number\bin\Debug\netcoreapp2.0\Odd Number.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Odd Number\bin\Debug\netcoreapp2.0\Odd Number.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Odd Number\bin\Debug\netcoreapp2.0\Odd Number.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Odd Number\bin\Debug\netcoreapp2.0\Odd Number.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Odd Number\bin\Debug\netcoreapp2.0\Odd Number.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Odd Number\obj\Debug\netcoreapp2.0\Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Odd Number\obj\Debug\netcoreapp2.0\Odd Number.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Odd Number\obj\Debug\netcoreapp2.0\Odd Number.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Odd Number\obj\Debug\netcoreapp2.0\Odd Number.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Odd Number\obj\Debug\netcoreapp2.0\Odd Number.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Odd Number\obj\Debug\netcoreapp2.0\Odd Number.csprojResolveAssemblyReference.cache

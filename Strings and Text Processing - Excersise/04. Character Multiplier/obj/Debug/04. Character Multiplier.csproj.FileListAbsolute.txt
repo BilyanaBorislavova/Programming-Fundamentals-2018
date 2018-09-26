@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\04. Character Multiplier\obj\Debug\04. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.pdb

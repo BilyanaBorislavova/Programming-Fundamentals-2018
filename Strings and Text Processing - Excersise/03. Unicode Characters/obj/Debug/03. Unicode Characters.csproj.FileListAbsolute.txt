@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\03. Unicode Characters\obj\Debug\03. Unicode Characters.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\03. Unicode Characters\obj\Debug\03. Unicode Characters.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb

@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\02. Manipulate Array.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.pdb

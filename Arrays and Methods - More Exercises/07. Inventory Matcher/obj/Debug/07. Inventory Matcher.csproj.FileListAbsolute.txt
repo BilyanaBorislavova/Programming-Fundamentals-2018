@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\07. Inventory Matcher.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\07. Inventory Matcher.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\_07.Inventory_Matcher.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\_07.Inventory_Matcher.pdb

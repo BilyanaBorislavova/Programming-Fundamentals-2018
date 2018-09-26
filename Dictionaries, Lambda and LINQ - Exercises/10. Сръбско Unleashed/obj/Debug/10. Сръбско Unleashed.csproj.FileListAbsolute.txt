@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\10. Сръбско Unleashed.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\10. Сръбско Unleashed\obj\Debug\10. Сръбско Unleashed.csprojResolveAssemblyReference.cache

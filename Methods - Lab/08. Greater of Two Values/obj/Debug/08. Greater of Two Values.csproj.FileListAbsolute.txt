@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\08. Greater of Two Values\obj\Debug\08. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\08. Greater of Two Values\obj\Debug\_08.Greater_of_Two_Values.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\08. Greater of Two Values\obj\Debug\_08.Greater_of_Two_Values.pdb

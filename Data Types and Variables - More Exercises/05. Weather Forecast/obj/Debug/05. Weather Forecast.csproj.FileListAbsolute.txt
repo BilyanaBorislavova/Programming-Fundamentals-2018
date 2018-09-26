@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\05. Weather Forecast.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\05. Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\_05.Weather_Forecast.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\_05.Weather_Forecast.pdb

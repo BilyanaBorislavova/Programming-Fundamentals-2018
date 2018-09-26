@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\14. Boat Simulator\bin\Debug\_14.Boat_Simulator.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\14. Boat Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\_14.Boat_Simulator.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\_14.Boat_Simulator.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\14. Boat Simulator\obj\Debug\14. Boat Simulator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Number Checker\bin\Debug\netcoreapp2.0\Number Checker.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Number Checker\obj\Debug\netcoreapp2.0\Number Checker.pdb

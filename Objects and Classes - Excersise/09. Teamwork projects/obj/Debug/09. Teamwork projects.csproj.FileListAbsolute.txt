@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\09. Teamwork projects\bin\Debug\_09.Teamwork_projects.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\09. Teamwork projects\bin\Debug\_09.Teamwork_projects.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\09. Teamwork projects\bin\Debug\_09.Teamwork_projects.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\09. Teamwork projects\obj\Debug\09. Teamwork projects.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\09. Teamwork projects\obj\Debug\_09.Teamwork_projects.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\09. Teamwork projects\obj\Debug\_09.Teamwork_projects.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\09. Teamwork projects\obj\Debug\09. Teamwork projects.csprojResolveAssemblyReference.cache

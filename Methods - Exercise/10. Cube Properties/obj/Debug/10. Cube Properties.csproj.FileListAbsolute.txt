@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\10. Cube Properties\bin\Debug\_10.Cube_Properties.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\10. Cube Properties\bin\Debug\_10.Cube_Properties.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\10. Cube Properties\obj\Debug\10. Cube Properties.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\10. Cube Properties\obj\Debug\10. Cube Properties.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\10. Cube Properties\obj\Debug\_10.Cube_Properties.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\10. Cube Properties\obj\Debug\_10.Cube_Properties.pdb

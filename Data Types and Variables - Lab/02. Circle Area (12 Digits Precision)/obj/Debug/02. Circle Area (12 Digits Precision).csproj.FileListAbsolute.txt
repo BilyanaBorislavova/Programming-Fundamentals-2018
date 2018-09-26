@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\02. Circle Area (12 Digits Precision)\bin\Debug\_02.Circle_Area__12_Digits_Precision_.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\02. Circle Area (12 Digits Precision)\bin\Debug\_02.Circle_Area__12_Digits_Precision_.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\02. Circle Area (12 Digits Precision)\bin\Debug\_02.Circle_Area__12_Digits_Precision_.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\02. Circle Area (12 Digits Precision)\obj\Debug\02. Circle Area (12 Digits Precision).csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\02. Circle Area (12 Digits Precision)\obj\Debug\02. Circle Area (12 Digits Precision).csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\02. Circle Area (12 Digits Precision)\obj\Debug\_02.Circle_Area__12_Digits_Precision_.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\02. Circle Area (12 Digits Precision)\obj\Debug\_02.Circle_Area__12_Digits_Precision_.pdb

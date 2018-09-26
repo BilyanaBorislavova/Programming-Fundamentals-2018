@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\_05.Key_Replacer.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\05. Key Replacer.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\05. Key Replacer.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\_05.Key_Replacer.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\_05.Key_Replacer.pdb

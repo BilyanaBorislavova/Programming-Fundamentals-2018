@@ -1,0 +1,6 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\ConsoleApp111\Summing nums\bin\Debug\Summing nums.exe.config
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\ConsoleApp111\Summing nums\bin\Debug\Summing nums.exe
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\ConsoleApp111\Summing nums\bin\Debug\Summing nums.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\ConsoleApp111\Summing nums\obj\Debug\Summing nums.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\ConsoleApp111\Summing nums\obj\Debug\Summing nums.exe
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\ConsoleApp111\Summing nums\obj\Debug\Summing nums.pdb

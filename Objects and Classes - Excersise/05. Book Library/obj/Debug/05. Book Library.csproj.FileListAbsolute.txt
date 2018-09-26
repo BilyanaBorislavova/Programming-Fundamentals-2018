@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\05. Book Library\bin\Debug\_05.Book_Library.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\05. Book Library\bin\Debug\_05.Book_Library.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\05. Book Library\bin\Debug\_05.Book_Library.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\05. Book Library\obj\Debug\05. Book Library.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\05. Book Library\obj\Debug\05. Book Library.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\05. Book Library\obj\Debug\_05.Book_Library.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Objects and Classes - Excersise\05. Book Library\obj\Debug\_05.Book_Library.pdb

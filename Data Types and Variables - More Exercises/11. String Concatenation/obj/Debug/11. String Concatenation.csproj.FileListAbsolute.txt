@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\11. String Concatenation\bin\Debug\_11.String_Concatenation.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\11. String Concatenation\bin\Debug\_11.String_Concatenation.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\11. String Concatenation\bin\Debug\_11.String_Concatenation.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\11. String Concatenation\obj\Debug\11. String Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\11. String Concatenation\obj\Debug\_11.String_Concatenation.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - More Exercises\11. String Concatenation\obj\Debug\_11.String_Concatenation.pdb

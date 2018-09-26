@@ -1,0 +1,5 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Miles to Kilometers\bin\Debug\Miles to Kilometers.exe.config
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Miles to Kilometers\bin\Debug\Miles to Kilometers.exe
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Miles to Kilometers\bin\Debug\Miles to Kilometers.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Miles to Kilometers\obj\Debug\Miles to Kilometers.exe
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Miles to Kilometers\obj\Debug\Miles to Kilometers.pdb

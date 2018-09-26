@@ -1,0 +1,5 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Beverage Labels\bin\Debug\Beverage Labels.exe.config
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Beverage Labels\bin\Debug\Beverage Labels.exe
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Beverage Labels\bin\Debug\Beverage Labels.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Beverage Labels\obj\Debug\Beverage Labels.exe
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Beverage Labels\obj\Debug\Beverage Labels.pdb

@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\04. Numbers in Reversed Order\obj\Debug\04. Numbers in Reversed Order.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb

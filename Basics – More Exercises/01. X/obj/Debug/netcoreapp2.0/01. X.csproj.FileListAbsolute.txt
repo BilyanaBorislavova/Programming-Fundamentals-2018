@@ -1,0 +1,11 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\01. X\bin\Debug\netcoreapp2.0\01. X.deps.json
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\01. X\bin\Debug\netcoreapp2.0\01. X.runtimeconfig.json
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\01. X\bin\Debug\netcoreapp2.0\01. X.runtimeconfig.dev.json
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\01. X\bin\Debug\netcoreapp2.0\01. X.dll
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\01. X\bin\Debug\netcoreapp2.0\01. X.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.AssemblyInfoInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.AssemblyInfo.cs
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.dll
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Basics – More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.pdb

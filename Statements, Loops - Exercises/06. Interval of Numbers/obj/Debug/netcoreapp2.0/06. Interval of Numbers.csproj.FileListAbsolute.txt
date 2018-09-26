@@ -1,0 +1,10 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\06. Interval of Numbers\bin\Debug\netcoreapp2.0\06. Interval of Numbers.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\06. Interval of Numbers\bin\Debug\netcoreapp2.0\06. Interval of Numbers.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\06. Interval of Numbers\bin\Debug\netcoreapp2.0\06. Interval of Numbers.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\06. Interval of Numbers\bin\Debug\netcoreapp2.0\06. Interval of Numbers.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\06. Interval of Numbers\bin\Debug\netcoreapp2.0\06. Interval of Numbers.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\06. Interval of Numbers\obj\Debug\netcoreapp2.0\06. Interval of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\06. Interval of Numbers\obj\Debug\netcoreapp2.0\06. Interval of Numbers.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\06. Interval of Numbers\obj\Debug\netcoreapp2.0\06. Interval of Numbers.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\06. Interval of Numbers\obj\Debug\netcoreapp2.0\06. Interval of Numbers.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\06. Interval of Numbers\obj\Debug\netcoreapp2.0\06. Interval of Numbers.pdb

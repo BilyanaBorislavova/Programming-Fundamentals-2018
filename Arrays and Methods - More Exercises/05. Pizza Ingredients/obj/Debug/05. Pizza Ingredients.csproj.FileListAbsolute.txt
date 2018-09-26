@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\05. Pizza Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\05. Pizza Ingredients\obj\Debug\05. Pizza Ingredients.csprojResolveAssemblyReference.cache

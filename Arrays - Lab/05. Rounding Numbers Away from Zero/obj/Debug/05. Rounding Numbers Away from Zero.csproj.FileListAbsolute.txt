@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\05. Rounding Numbers Away from Zero\bin\Debug\_05.Rounding_Numbers_Away_from_Zero.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\05. Rounding Numbers Away from Zero\bin\Debug\_05.Rounding_Numbers_Away_from_Zero.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\05. Rounding Numbers Away from Zero\bin\Debug\_05.Rounding_Numbers_Away_from_Zero.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\05. Rounding Numbers Away from Zero\obj\Debug\05. Rounding Numbers Away from Zero.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\05. Rounding Numbers Away from Zero\obj\Debug\_05.Rounding_Numbers_Away_from_Zero.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\05. Rounding Numbers Away from Zero\obj\Debug\_05.Rounding_Numbers_Away_from_Zero.pdb

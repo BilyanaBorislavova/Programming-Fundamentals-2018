@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\09. Legendary Farming\bin\Debug\_09.Legendary_Farming.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\09. Legendary Farming\bin\Debug\_09.Legendary_Farming.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\09. Legendary Farming\bin\Debug\_09.Legendary_Farming.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\09. Legendary Farming\obj\Debug\09. Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\09. Legendary Farming\obj\Debug\_09.Legendary_Farming.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\09. Legendary Farming\obj\Debug\_09.Legendary_Farming.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries, Lambda and LINQ - Exercises\09. Legendary Farming\obj\Debug\09. Legendary Farming.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\03. Safe Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.pdb

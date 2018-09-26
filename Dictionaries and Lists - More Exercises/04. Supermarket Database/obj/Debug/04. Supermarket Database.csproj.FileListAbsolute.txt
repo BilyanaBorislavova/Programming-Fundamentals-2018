@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\_04.Supermarket_Database.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\_04.Supermarket_Database.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\_04.Supermarket_Database.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\04. Supermarket Database.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\_04.Supermarket_Database.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\_04.Supermarket_Database.pdb

@@ -1,0 +1,6 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Intro and Basic Syntax Excercises\bin\Debug\Intro and Basic Syntax Excercises.exe.config
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Intro and Basic Syntax Excercises\bin\Debug\Intro and Basic Syntax Excercises.exe
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Intro and Basic Syntax Excercises\bin\Debug\Intro and Basic Syntax Excercises.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Intro and Basic Syntax Excercises\obj\Debug\Intro and Basic Syntax Excercises.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Intro and Basic Syntax Excercises\obj\Debug\Intro and Basic Syntax Excercises.exe
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax Excercises\Intro and Basic Syntax Excercises\obj\Debug\Intro and Basic Syntax Excercises.pdb

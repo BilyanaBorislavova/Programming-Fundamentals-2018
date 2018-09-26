@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\12. Rectangle Properties.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb

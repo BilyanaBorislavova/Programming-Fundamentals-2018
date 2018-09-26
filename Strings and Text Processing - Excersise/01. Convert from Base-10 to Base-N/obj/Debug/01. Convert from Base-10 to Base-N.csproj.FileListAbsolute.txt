@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\01. Convert from Base-10 to Base-N\bin\Debug\_01.Convert_from_Base_10_to_Base_N.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\01. Convert from Base-10 to Base-N\bin\Debug\_01.Convert_from_Base_10_to_Base_N.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\01. Convert from Base-10 to Base-N\bin\Debug\_01.Convert_from_Base_10_to_Base_N.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\01. Convert from Base-10 to Base-N\obj\Debug\01. Convert from Base-10 to Base-N.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\01. Convert from Base-10 to Base-N\obj\Debug\01. Convert from Base-10 to Base-N.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\01. Convert from Base-10 to Base-N\obj\Debug\_01.Convert_from_Base_10_to_Base_N.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Strings and Text Processing - Excersise\01. Convert from Base-10 to Base-N\obj\Debug\_01.Convert_from_Base_10_to_Base_N.pdb

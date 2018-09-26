@@ -1,0 +1,11 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Statements and Loops\bin\Debug\netcoreapp2.0\Statements and Loops.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Statements and Loops\bin\Debug\netcoreapp2.0\Statements and Loops.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Statements and Loops\bin\Debug\netcoreapp2.0\Statements and Loops.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Statements and Loops\bin\Debug\netcoreapp2.0\Statements and Loops.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Statements and Loops\bin\Debug\netcoreapp2.0\Statements and Loops.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Statements and Loops\obj\Debug\netcoreapp2.0\Statements and Loops.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Statements and Loops\obj\Debug\netcoreapp2.0\Statements and Loops.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Statements and Loops\obj\Debug\netcoreapp2.0\Statements and Loops.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Statements and Loops\obj\Debug\netcoreapp2.0\Statements and Loops.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Statements and Loops\obj\Debug\netcoreapp2.0\Statements and Loops.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements and Loops\Statements and Loops\obj\Debug\netcoreapp2.0\Statements and Loops.pdb

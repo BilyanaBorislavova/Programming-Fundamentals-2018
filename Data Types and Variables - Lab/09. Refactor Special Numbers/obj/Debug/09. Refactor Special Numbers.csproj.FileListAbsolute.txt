@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\09. Refactor Special Numbers\obj\Debug\09. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\09. Refactor Special Numbers\obj\Debug\_09.Refactor_Special_Numbers.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Data Types and Variables - Lab\09. Refactor Special Numbers\obj\Debug\_09.Refactor_Special_Numbers.pdb

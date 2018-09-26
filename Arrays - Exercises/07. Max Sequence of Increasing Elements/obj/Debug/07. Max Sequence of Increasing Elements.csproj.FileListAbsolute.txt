@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\07. Max Sequence of Increasing Elements.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\_07.Max_Sequence_of_Increasing_Elements.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\_07.Max_Sequence_of_Increasing_Elements.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\07. Max Sequence of Increasing Elements.csprojResolveAssemblyReference.cache

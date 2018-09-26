@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\05. Compare Char Arrays\bin\Debug\_05.Compare_Char_Arrays.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\05. Compare Char Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\_05.Compare_Char_Arrays.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Exercises\05. Compare Char Arrays\obj\Debug\_05.Compare_Char_Arrays.pdb

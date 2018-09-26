@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\02. Match Phone Number\obj\Debug\02. Match Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\02. Match Phone Number\obj\Debug\_02.Match_Phone_Number.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Regular Expressions (RegEx) - Lab\02. Match Phone Number\obj\Debug\_02.Match_Phone_Number.pdb

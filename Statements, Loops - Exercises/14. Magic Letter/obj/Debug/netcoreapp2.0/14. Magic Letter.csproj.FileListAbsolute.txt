@@ -1,0 +1,10 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.pdb

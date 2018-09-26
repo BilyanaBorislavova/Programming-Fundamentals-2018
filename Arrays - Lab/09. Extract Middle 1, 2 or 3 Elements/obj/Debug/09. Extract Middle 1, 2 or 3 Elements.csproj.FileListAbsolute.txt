@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\09. Extract Middle 1, 2 or 3 Elements\bin\Debug\_09.Extract_Middle_1__2_or_3_Elements.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\09. Extract Middle 1, 2 or 3 Elements\bin\Debug\_09.Extract_Middle_1__2_or_3_Elements.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\09. Extract Middle 1, 2 or 3 Elements\bin\Debug\_09.Extract_Middle_1__2_or_3_Elements.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\09. Extract Middle 1, 2 or 3 Elements\obj\Debug\09. Extract Middle 1, 2 or 3 Elements.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\09. Extract Middle 1, 2 or 3 Elements\obj\Debug\_09.Extract_Middle_1__2_or_3_Elements.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\09. Extract Middle 1, 2 or 3 Elements\obj\Debug\_09.Extract_Middle_1__2_or_3_Elements.pdb

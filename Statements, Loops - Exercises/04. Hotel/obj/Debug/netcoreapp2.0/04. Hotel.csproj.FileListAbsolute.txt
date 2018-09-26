@@ -1,0 +1,11 @@
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\04. Hotel\bin\Debug\netcoreapp2.0\04. Hotel.deps.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\04. Hotel\bin\Debug\netcoreapp2.0\04. Hotel.runtimeconfig.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\04. Hotel\bin\Debug\netcoreapp2.0\04. Hotel.runtimeconfig.dev.json
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\04. Hotel\bin\Debug\netcoreapp2.0\04. Hotel.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\04. Hotel\bin\Debug\netcoreapp2.0\04. Hotel.pdb
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.AssemblyInfoInputs.cache
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.AssemblyInfo.cs
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.dll
+C:\Users\Toch\Documents\Visual Studio 2017\Projects\Programming Fundamentals 2018\Statements, Loops - Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.pdb

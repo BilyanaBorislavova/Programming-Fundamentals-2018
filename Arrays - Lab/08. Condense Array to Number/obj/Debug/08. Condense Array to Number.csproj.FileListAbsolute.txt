@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Arrays - Lab\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.pdb

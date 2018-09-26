@@ -1,0 +1,6 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\06. Calculate Triangle Area\bin\Debug\_06.Calculate_Triangle_Area.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\06. Calculate Triangle Area\obj\Debug\06. Calculate Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Lab\06. Calculate Triangle Area\obj\Debug\_06.Calculate_Triangle_Area.pdb

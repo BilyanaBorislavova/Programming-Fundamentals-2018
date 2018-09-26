@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\11. Geometry Calculator\obj\Debug\11. Geometry Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\11. Geometry Calculator\obj\Debug\_11.Geometry_Calculator.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\11. Geometry Calculator\obj\Debug\_11.Geometry_Calculator.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\11. Geometry Calculator\obj\Debug\11. Geometry Calculator.csprojResolveAssemblyReference.cache

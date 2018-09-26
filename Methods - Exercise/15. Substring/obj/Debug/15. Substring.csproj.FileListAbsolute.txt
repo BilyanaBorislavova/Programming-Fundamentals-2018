@@ -1,0 +1,7 @@
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\15. Substring\bin\Debug\_15.Substring.exe.config
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\15. Substring\bin\Debug\_15.Substring.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\15. Substring\bin\Debug\_15.Substring.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\15. Substring\obj\Debug\15. Substring.csproj.CoreCompileInputs.cache
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\15. Substring\obj\Debug\_15.Substring.exe
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\15. Substring\obj\Debug\_15.Substring.pdb
+C:\Users\Toch\Desktop\Programming Fundamentals 2018\Methods - Exercise\15. Substring\obj\Debug\15. Substring.csprojResolveAssemblyReference.cache
